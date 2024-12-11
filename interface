@@ -16,7 +16,7 @@ local OrionLib = {
 			Second = Color3.fromRGB(25, 25, 25), -- Segundo plano em cinza escuro
 			Stroke = Color3.fromRGB(0, 255, 255), -- Borda Ciano
 			Divider = Color3.fromRGB(60, 60, 60), -- Divisor em cinza escuro
-			Text = Color3.fromRGB(255, 255, 255), -- Texto branco 
+			Text = Color3.fromRGB(0, 255, 255), -- Texto ciano
 			TextDark = Color3.fromRGB(150, 150, 150) -- Texto secundário em cinza
 		}
 	},
